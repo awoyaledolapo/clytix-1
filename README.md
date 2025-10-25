@@ -1,5 +1,5 @@
 # clytix-1
-# MyApp (React Version)
+
 
 A modern, responsive web application built with **React 18** and **Vite**.  
 This project includes authentication (login/signup), a multi-page dashboard, ticket management, and reusable UI components.  
