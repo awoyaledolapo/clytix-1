@@ -14,7 +14,7 @@ This project includes authentication (login/signup), a multi-page dashboard, tic
 - **Styling:** Tailwind CSS  
 - **Build Tool:** Vite  
 - **State Management:** React `useState` and `useEffect`  
-- **Custom Hooks:** `useToast` for notifications, `useContext` for global state (if any)  
+- **Custom Hooks:** `useToast` for notifications, `useContext` for global state 
 
 ---
 
