@@ -1,8 +1,7 @@
 # clytix-1
 
-
-A modern, responsive web application built with **React 18** and **Vite**.  
-This project includes authentication (login/signup), a multi-page dashboard, ticket management, and reusable UI components.  
+A modern, responsive ticket management web app built with **React 18**, **Vite**, and **Supabase**.
+Features include secure authentication, multi-page dashboard, ticket tracking, and reusable UI components.
 
 ---
 
@@ -14,7 +13,8 @@ This project includes authentication (login/signup), a multi-page dashboard, tic
 - **Styling:** Tailwind CSS  
 - **Build Tool:** Vite  
 - **State Management:** React `useState` and `useEffect`  
-- **Custom Hooks:** `useToast` for notifications, `useContext` for global state 
+- **Custom Hooks:** `useToast` for notifications, `useContext` for global state
+- Backend / Data Layer: Supabase (authentication, ticket data management)
 
 ---
 
